@@ -1,3 +1,7 @@
-import os
+######################
+# Problem 6 : Sponge-based hash function
+######################
 
-print("hello")
+r = [64,64,64]
+c = [256,256,256]
+n = 256
